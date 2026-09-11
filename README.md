@@ -1,6 +1,6 @@
 # Modelagem de Dados — Clínica Veterinária
 
-Projeto acadêmico da disciplina de Banco de Dados: modelagem completa, do Modelo Conceitual (DER) ao Modelo Físico (script SQL), para o sistema de gestão de uma **Clínica Veterinária**.
+Projeto de Banco de Dados: modelagem completa, do Modelo Conceitual (DER) ao Modelo Físico (script SQL), para o sistema de gestão de uma **Clínica Veterinária**.
 
 ## 🎯 Objetivo
 
