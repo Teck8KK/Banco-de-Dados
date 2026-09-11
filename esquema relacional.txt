@@ -1,0 +1,4 @@
+Cliente (CPF, Nome, Telefone)
+Veterinario (CRMv, Nome, Data_Admissao, Salario)
+Animal (Codigo, Nome, Ano_Nascimento, Raca, CPF_Cliente (FK) referencia Cliente)
+Consulta (ID_Consulta, Data, Hora, Motivo, CRMv_Vet (FK) referencia Veterinario, Codigo_Animal (FK) referencia Animal)
